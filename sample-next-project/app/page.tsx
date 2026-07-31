@@ -7,7 +7,7 @@ export default function Home() {
         </h1>
 
         <p className="mt-4 text-lg text-gray-600">
-          Git and GitHub Branching Workflow Practice
+          Git and GitHub Workflow Hands-on Project
         </p>
 
         <p className="mt-2 text-gray-500">
